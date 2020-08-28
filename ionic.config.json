@@ -1,0 +1,7 @@
+{
+  "name": "Credisys",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
